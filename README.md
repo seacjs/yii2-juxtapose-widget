@@ -1,17 +1,17 @@
 # yii2-juxtapose-widget
 ```
-https://github.com/NUKnightLab/juxtapose
+https://github.com/seacjs/juxtapose
 ```
 ### composer.json
 ---
 ```json
 "require": {
-    "xj/yii2-juxtapose-widget": "~1.0"
+    "seacjs/yii2-juxtapose-widget": "~1.0"
 },
 ```
 
 ### Assets
 ---
 ```php
-xj\juxtapose\JuxtaposeAsset::register($this);
+seacjs\juxtapose\JuxtaposeAsset::register($this);
 ```
