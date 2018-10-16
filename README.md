@@ -13,5 +13,10 @@ https://github.com/seacjs/juxtapose
 ### Assets
 ---
 ```php
-seacjs\juxtapose\JuxtaposeAsset::register($this);
+no working: 
+<?=\app\widgets\JuxtaposeWidget::widget([
+    'left_image' => 'https://pp.userapi.com/c629514/v629514735/2ff6f/nYtJrjpXs88.jpg?ava=1',
+    'right_image' => 'https://pp.userapi.com/c629514/v629514735/2ff6f/nYtJrjpXs88.jpg?ava=1',
+]);?>
+
 ```
